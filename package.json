@@ -1,0 +1,20 @@
+{
+  "name": "kossak",
+  "version": "1.0.0",
+  "description": "Website for Kossak Studios - an iOS design and development studio focused on privacy.",
+  "main": "index.js",
+  "repository": "https://github.com/dock90/kossak",
+  "author": "EdwardGoomba",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.2.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "styled-components": "^5.0.1"
+  }
+}
